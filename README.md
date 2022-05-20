@@ -1,4 +1,4 @@
-# DetectionAssociation
+# Detection Association
 Implementation of K. Cortopassi cross correlation code to work with multi-channel Raven Selection tables
 
 This is a qick implmentation of call association code that takes detections from a single channel and uses normalized cross correlation and array spacing to identify additional arrivals on other channels.
