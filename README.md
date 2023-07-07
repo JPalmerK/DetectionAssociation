@@ -29,9 +29,6 @@ Example hydrophone locations and raven selection tables have been provided for e
 3. CSV file with id of all detections within the array spacing of the primary channel
 
 
-
-
-
 ##  Known Bugs/to do
--switch case for identifying audio file times not working
--make robust to folder structures
+- switch case for identifying audio files in folder not working. Currently only identifies aiffs, high priortiy fix
+- make robust to folder structures
